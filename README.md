@@ -4,6 +4,6 @@
 
 ## This are simple code snippets of TCP/IP programming
 
-## Advanced topics are other repo
+## Advanced topics are on other repo
 
 ### !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
